@@ -6,7 +6,9 @@ title: Maratón de Madrid
 ## Cosas a tener en cuenta si corres la Maratón de Madrid ##
 
 * La **Ma**ratón **Po**pular de **Ma**drid (MAPOMA) se suele celebrar el tercer domingo de Abril. 
-* La feria del corredor se hace en la feria de Madrid. Metro Campo de las Naciones, Línea 8. Hay aparcamiento de pago. 
+* La mejor forma de moverse por la ciudad es el Metro y los autobuses. Una buena opción es comprar un billete de 10 viajes que puedes compartir con otras personas y te vale para Metro y Autobus. 
+* Para ir del Aereopuerto al centro de la ciudad tienes Metro, Tren y una línea de autobús que te deja en la Plaza de Cibeles. Lsa Estaciones de metro del Aereopuerto tienen una tarificación especial y los bonos de 10 viajes no te vale para entrar en esas dos estaciones. 
+* La feria del corredor se hace en la feria de Madrid. Metro Campo de las Naciones, Línea 8 (La misma que va al aereopuerto). Hay aparcamiento de pago. 
 * Suele haber poca cola para buscar los dorsales. En un sitio te entregan el Dorsal, el otra la camiseta y en otro la bolsa del corredor. 
 * Para ir a la Salida Metro Gregorio Marañon, Linea 7 o 10. El metro está justo en la zona de los guarda ropa, Hay baños químicos por la zona. 
 * Puede y suele hacer calor, en especial al final. Si eres friolero, lleva una bolsa de basura como poncho y lo tiras antes del inicio de la carrera. 
