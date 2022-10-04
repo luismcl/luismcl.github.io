@@ -3,7 +3,7 @@ layout: post
 title: Maratón de Berlín
 ---
 
-## Cosas a tener en cuenta si corres la Maratón de Berlín (o no...) ## ##
+## Cosas a tener en cuenta (o no) si corres la Maratón de Berlín ##
 
 * La inscripción a la maratón incluye un ticket de transporte público, válido de jueves a lunes. Con él, puedes ir del aeropuerto a la ciudad. 
 * La mejor forma de ir del Aeropuerto a la ciudad es con tren Expreso "FLEX" va directo a la estación central. 
